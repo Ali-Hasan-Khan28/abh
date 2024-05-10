@@ -1,0 +1,2 @@
+2024-05-03 02:26:46 [INFO]- Load pretrained SentenceTransformer: thenlper/gte-large
+2024-05-03 02:31:25 [INFO]- Running on http://0.0.0.0:3000 (CTRL + C to quit)
